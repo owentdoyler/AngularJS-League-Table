@@ -2,7 +2,7 @@
 /* ----------------------------------------   animations --------------------------------- */
 
 .hideable.ng-enter {
-  transition:5s linear all;
+  transition: 5s linear all;
   max-height: 0px;
 }
 
@@ -11,8 +11,8 @@
 }
 
 .hideable.ng-leave {
-  transition:0.5s linear all;
-  max-height: 30px;
+  transition: 0.5s linear all;
+  max-height: 50px;
 }
 
 /* The finishing CSS styles for the enter animation */
